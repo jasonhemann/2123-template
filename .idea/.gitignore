@@ -1,0 +1,9 @@
+# Personal files stay on each student's computer.
+/workspace.xml
+/tasks.xml
+/usage.statistics.xml
+/dictionaries/
+/shelf/
+/httpRequests/
+/dataSources/
+/dataSources.local.xml
