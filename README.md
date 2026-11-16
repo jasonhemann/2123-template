@@ -5,7 +5,8 @@ inspection profile, formatting rules, library references, and a setup check.
 
 ## Get started
 
-1. Clone the course's private `2123-template` repository to your computer. If you
+1. Clone the public [2123-template repository](https://github.com/jasonhemann/2123-template)
+   to your computer. You do not need a GitHub account or an invitation. If you
    downloaded a ZIP instead, extract it first.
 2. Download [tester.jar](https://hemann.pl/26FA-CS2123/files/tester.jar) and
    [javalib.jar](https://hemann.pl/26FA-CS2123/files/javalib.jar) from the course site.
@@ -29,8 +30,7 @@ inspection profile, formatting rules, library references, and a setup check.
    **Setup check** configuration and change **Program arguments** to your examples
    class name. Keep **Main class** set to `tester.Main`.
 
-Students need access to the private repository before they can clone it. Plugins,
-AI accounts, and visible line numbers still use each student's IDE setup.
+Plugins, AI accounts, and visible line numbers still use each student's IDE setup.
 
 ## Other IDEs
 
